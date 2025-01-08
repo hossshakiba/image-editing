@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 27.46, Prompt = winter
+Rank 2: CLIP Score = 23.81, Prompt = fall
+Rank 3: CLIP Score = 23.31, Prompt = sunny
+Rank 4: CLIP Score = 22.56, Prompt = wind
+Rank 5: CLIP Score = 22.47, Prompt = spring
+Rank 6: CLIP Score = 21.65, Prompt = night
+Rank 7: CLIP Score = 21.44, Prompt = green
+Rank 8: CLIP Score = 21.24, Prompt = summer
+Rank 9: CLIP Score = 21.14, Prompt = stormy
+Rank 10: CLIP Score = 20.84, Prompt = tyfoon
+Rank 11: CLIP Score = 19.03, Prompt = rainy

@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 29.33, Prompt = fox
+Rank 2: CLIP Score = 29.02, Prompt = rat
+Rank 3: CLIP Score = 28.93, Prompt = two parrots
+Rank 4: CLIP Score = 27.11, Prompt = dog
+Rank 5: CLIP Score = 26.33, Prompt = colorful
+Rank 6: CLIP Score = 24.73, Prompt = cat
+Rank 7: CLIP Score = 23.89, Prompt = pink
+Rank 8: CLIP Score = 23.25, Prompt = fly
+Rank 9: CLIP Score = 22.91, Prompt = red color
+Rank 10: CLIP Score = 22.08, Prompt = small size
+Rank 11: CLIP Score = 18.50, Prompt = white

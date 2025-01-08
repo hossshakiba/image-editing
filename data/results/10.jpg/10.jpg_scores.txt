@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 26.72, Prompt = clouds
+Rank 2: CLIP Score = 26.41, Prompt = add fireworks to the sky
+Rank 3: CLIP Score = 25.93, Prompt = trees around the tower
+Rank 4: CLIP Score = 24.85, Prompt = christmas
+Rank 5: CLIP Score = 24.83, Prompt = flowers
+Rank 6: CLIP Score = 24.53, Prompt = crowd
+Rank 7: CLIP Score = 23.79, Prompt = autumn leaves
+Rank 8: CLIP Score = 21.19, Prompt = snowy weather
+Rank 9: CLIP Score = 20.45, Prompt = night
+Rank 10: CLIP Score = 19.01, Prompt = night + lights
+Rank 11: CLIP Score = 18.76, Prompt = rain

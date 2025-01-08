@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 30.38, Prompt = leopard
+Rank 2: CLIP Score = 29.89, Prompt = cubs
+Rank 3: CLIP Score = 29.76, Prompt = lion
+Rank 4: CLIP Score = 29.58, Prompt = fox
+Rank 5: CLIP Score = 28.47, Prompt = roar
+Rank 6: CLIP Score = 27.89, Prompt = golden stripes
+Rank 7: CLIP Score = 27.56, Prompt = snowy tiger
+Rank 8: CLIP Score = 22.46, Prompt = hunt
+Rank 9: CLIP Score = 21.94, Prompt = red eyes
+Rank 10: CLIP Score = 19.88, Prompt = add wings
+Rank 11: CLIP Score = 19.42, Prompt = night vision

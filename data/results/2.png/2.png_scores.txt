@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 27.27, Prompt = beard
+Rank 2: CLIP Score = 26.87, Prompt = remove facial hair
+Rank 3: CLIP Score = 25.99, Prompt = purple hair
+Rank 4: CLIP Score = 25.70, Prompt = small nose
+Rank 5: CLIP Score = 24.71, Prompt = larger eyes
+Rank 6: CLIP Score = 23.33, Prompt = sunglasses
+Rank 7: CLIP Score = 22.26, Prompt = darker skin
+Rank 8: CLIP Score = 22.17, Prompt = older
+Rank 9: CLIP Score = 18.99, Prompt = remove wrinkles
+Rank 10: CLIP Score = 16.73, Prompt = straight hair
+Rank 11: CLIP Score = 16.73, Prompt = straight hair

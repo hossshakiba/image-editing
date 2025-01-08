@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 27.07, Prompt = anger
+Rank 2: CLIP Score = 23.81, Prompt = depression
+Rank 3: CLIP Score = 23.08, Prompt = embarrassment
+Rank 4: CLIP Score = 22.91, Prompt = disgust
+Rank 5: CLIP Score = 22.67, Prompt = fear
+Rank 6: CLIP Score = 22.59, Prompt = sadness
+Rank 7: CLIP Score = 20.56, Prompt = surprise
+Rank 8: CLIP Score = 20.46, Prompt = tear
+Rank 9: CLIP Score = 19.05, Prompt = excitement
+Rank 10: CLIP Score = 18.42, Prompt = Envy
+Rank 11: CLIP Score = 18.33, Prompt = love

@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 25.51, Prompt = Halloween
+Rank 2: CLIP Score = 23.50, Prompt = Christmas decorations
+Rank 3: CLIP Score = 23.27, Prompt = snow
+Rank 4: CLIP Score = 23.26, Prompt = fireworks
+Rank 5: CLIP Score = 22.35, Prompt = night scene
+Rank 6: CLIP Score = 22.26, Prompt = crowd
+Rank 7: CLIP Score = 21.66, Prompt = skyscraper
+Rank 8: CLIP Score = 21.65, Prompt = sunrise glow
+Rank 9: CLIP Score = 21.36, Prompt = dense fog
+Rank 10: CLIP Score = 20.38, Prompt = cyber punk
+Rank 11: CLIP Score = 20.26, Prompt = Remove all vehicles

@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 32.77, Prompt = Geoffrey Hinton
+Rank 2: CLIP Score = 31.38, Prompt = Sam Altman
+Rank 3: CLIP Score = 31.32, Prompt = Elon Musk
+Rank 4: CLIP Score = 31.10, Prompt = Cristiano Ronaldo
+Rank 5: CLIP Score = 31.05, Prompt = Donald Trump
+Rank 6: CLIP Score = 30.71, Prompt = Mark Zuckerburg
+Rank 7: CLIP Score = 30.31, Prompt = Leonardo Dicaprio
+Rank 8: CLIP Score = 29.27, Prompt = Jeff Bezos
+Rank 9: CLIP Score = 28.65, Prompt = George Clooney
+Rank 10: CLIP Score = 28.09, Prompt = Alan Turing
+Rank 11: CLIP Score = 25.35, Prompt = James Bond

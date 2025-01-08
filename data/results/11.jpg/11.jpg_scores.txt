@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 27.37, Prompt = chicago pizza
+Rank 2: CLIP Score = 25.92, Prompt = Make the pizza extra cheesy
+Rank 3: CLIP Score = 25.55, Prompt = change pizza with a soup
+Rank 4: CLIP Score = 24.37, Prompt = only one slice of pizza
+Rank 5: CLIP Score = 24.11, Prompt = remove pizza
+Rank 6: CLIP Score = 22.44, Prompt = delicious
+Rank 7: CLIP Score = 22.27, Prompt = Bad food
+Rank 8: CLIP Score = 22.02, Prompt = Change wine to orange juice
+Rank 9: CLIP Score = 21.67, Prompt = bottle of wine
+Rank 10: CLIP Score = 21.30, Prompt = plate
+Rank 11: CLIP Score = 21.27, Prompt = table color

@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 24.71, Prompt = oil painting
+Rank 2: CLIP Score = 20.35, Prompt = watercolor
+Rank 3: CLIP Score = 18.42, Prompt = Vincent van Gogh
+Rank 4: CLIP Score = 18.21, Prompt = mosaic tiles
+Rank 5: CLIP Score = 17.82, Prompt = Salvador Dali
+Rank 6: CLIP Score = 17.49, Prompt = Picasso
+Rank 7: CLIP Score = 17.40, Prompt = pop art
+Rank 8: CLIP Score = 16.78, Prompt = Rembrandt
+Rank 9: CLIP Score = 16.71, Prompt = black and white
+Rank 10: CLIP Score = 16.43, Prompt = pencil sketch
+Rank 11: CLIP Score = 16.34, Prompt = cartoon

@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 28.40, Prompt = scarf
+Rank 2: CLIP Score = 27.72, Prompt = square glasses
+Rank 3: CLIP Score = 27.09, Prompt = sunglasses
+Rank 4: CLIP Score = 26.24, Prompt = hat
+Rank 5: CLIP Score = 26.00, Prompt = round glasses
+Rank 6: CLIP Score = 25.47, Prompt = remove glasses
+Rank 7: CLIP Score = 25.04, Prompt = spotted coat
+Rank 8: CLIP Score = 23.48, Prompt = necklace
+Rank 9: CLIP Score = 22.65, Prompt = earings
+Rank 10: CLIP Score = 21.26, Prompt = red coat
+Rank 11: CLIP Score = 20.63, Prompt = white T-shirt

@@ -1,0 +1,25 @@
+model:
+  name: "runwayml/stable-diffusion-v1-5"
+
+inversion:
+  skip: 0.15
+  num_steps: 50
+  safety_checker: False
+
+editor:
+  edit_guidance_scale: 8
+  edit_threshold: 0.85
+
+env:
+  device: "cuda"
+  seed: 42
+
+paths:
+  real_images_dir_path: "./data/images"
+  results_dir_path: "./data/results"
+  prompts_file_path: "./prompts.json"
+
+eval:
+  fid_feature_size: 64
+  clip_model_name: "openai/clip-vit-base-patch16"
+

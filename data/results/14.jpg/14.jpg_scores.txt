@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 27.95, Prompt = running
+Rank 2: CLIP Score = 27.82, Prompt = couple holding hands
+Rank 3: CLIP Score = 25.80, Prompt = kissing
+Rank 4: CLIP Score = 25.34, Prompt = sunrise
+Rank 5: CLIP Score = 24.71, Prompt = hugging
+Rank 6: CLIP Score = 24.13, Prompt = remove the man
+Rank 7: CLIP Score = 23.78, Prompt = add a tree on the left side
+Rank 8: CLIP Score = 23.05, Prompt = add a baby between the couple
+Rank 9: CLIP Score = 22.86, Prompt = remove the woman
+Rank 10: CLIP Score = 22.41, Prompt = add a home on the left side
+Rank 11: CLIP Score = 21.53, Prompt = fighting

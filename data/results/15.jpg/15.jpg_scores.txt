@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 33.27, Prompt = a giant ship
+Rank 2: CLIP Score = 30.40, Prompt = horses on the hill
+Rank 3: CLIP Score = 26.50, Prompt = dolphin in water
+Rank 4: CLIP Score = 25.69, Prompt = rainbow
+Rank 5: CLIP Score = 25.34, Prompt = picnic
+Rank 6: CLIP Score = 23.92, Prompt = add a house near the lake
+Rank 7: CLIP Score = 23.78, Prompt = replace mountains with a city skyline
+Rank 8: CLIP Score = 22.16, Prompt = Add boats on the water
+Rank 9: CLIP Score = 20.40, Prompt = heavy snow
+Rank 10: CLIP Score = 18.09, Prompt = Envy
+Rank 11: CLIP Score = 15.81, Prompt = embarrassment

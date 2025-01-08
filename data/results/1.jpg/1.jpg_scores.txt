@@ -1,0 +1,11 @@
+Rank 1: CLIP Score = 27.78, Prompt = black eye color
+Rank 2: CLIP Score = 26.42, Prompt = thinner lip
+Rank 3: CLIP Score = 25.99, Prompt = mustache
+Rank 4: CLIP Score = 25.69, Prompt = tatoo
+Rank 5: CLIP Score = 25.15, Prompt = beard
+Rank 6: CLIP Score = 24.51, Prompt = younger
+Rank 7: CLIP Score = 23.95, Prompt = round glasses
+Rank 8: CLIP Score = 22.57, Prompt = black hair color
+Rank 9: CLIP Score = 22.52, Prompt = blonde man
+Rank 10: CLIP Score = 19.97, Prompt = curly hair
+Rank 11: CLIP Score = 17.15, Prompt = dimples
