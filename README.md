@@ -1,7 +1,7 @@
 # 🎨 LEDITS++ in Action: Strengths and Limitations 
 
 <p class="row" float="left" align="middle">
-<img style="width: 80%; height: auto;" src="./data/assets/main.png"/>
+<img style="width: 100%; height: auto;" src="./data/assets/main.png"/>
 </p>
 
 ## 🧙🏻‍♀️ Overview
@@ -15,16 +15,16 @@ In this section, I experimented with various editing aspects, including facial e
 Based on these experiments, the model demonstrates good performance when the image has a clear, **central object** that can be easily edited. It excels at typical edits that people commonly seek, such as modifying large-scale elements in the image. However, it struggles with more detailed changes, such as adjusting the color of someone's eyes. Additionally, the model faces challenges in understanding complex geometry, directions, and accurately recognizing objects within the image. These limitations suggest that the model's abilities are stronger in broad, high-level changes but weaker in fine-grained or precise adjustments. The following figures provide an overall qualitative assessment of how faithful the model’s outputs are to the provided prompts. They aim to depict both the strengths and weaknesses observed during the experiments.
 
 <p class="row" float="left" align="middle">
-<img style="width: 80%; height: auto;" src="./data/assets/facial.png"/>
+<img style="width: 100%; height: auto;" src="./data/assets/facial.png"/>
 </p>
 <p class="row" float="left" align="middle">
-<img style="width: 80%; height: auto;" src="./data/assets/emotion_accessories.png"/>
+<img style="width: 100%; height: auto;" src="./data/assets/emotion_accessories.png"/>
 </p>
 <p class="row" float="left" align="middle">
-<img style="width: 80%; height: auto;" src="./data/assets/eifel_couple.png"/>
+<img style="width: 1000%; height: auto;" src="./data/assets/eifel_couple.png"/>
 </p>
 <p class="row" float="left" align="middle">
-<img style="width: 80%; height: auto;" src="./data/assets/mixture.png"/>
+<img style="width: 100%; height: auto;" src="./data/assets/mixture.png"/>
 </p>
 
 ## 📊 Quantitative Evaluation
